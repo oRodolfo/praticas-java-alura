@@ -34,6 +34,8 @@ Repositório contendo exercícios e práticas realizadas durante formação de c
 ---
 
 ## Estrutura do repositório
+
+ ``` bash
 java-alura-exercicios
 │
 ├── fundamentos-java
@@ -77,7 +79,7 @@ java-alura-exercicios
 │       └── ProjetoPraticoSpringBootFipe
 │
 └── README.md
-
+ ``` 
 Cada pasta contém exercícios ou pequenos projetos desenvolvidos durante os cursos.
 
 ---
